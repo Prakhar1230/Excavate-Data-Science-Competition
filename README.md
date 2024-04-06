@@ -18,4 +18,4 @@ The regression model achieved an impressive R2 score of 0.8669, indicating stron
 - scikit-learn
 
 ### Authors
-- [Prakhar Tripathi]
+- Prakhar Tripathi
