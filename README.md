@@ -9,4 +9,13 @@ This repository contains code and data for predicting the critical casting diame
 - **Regression Modeling**: The predictive model is built using Extra Trees Regression, a robust ensemble learning technique. We trained the model on experimental data, aiming to accurately predict Dmax based on various input features.
 
 ### Results
-The regression model achieved an impressive R2 score of 0.8669, indicating strong predictive performance and a good fit to the experimental data. This demonstrates the efficacy of our approach in accurately predicting the critical casting diameter of metallic glasses.
+The regression model achieved an impressive R2 score of 0.8669, indicating strong predictive performance and a good fit to the experimental data. 
+
+### Dependencies
+- Python 3.x
+- NumPy
+- Pandas
+- scikit-learn
+
+### Authors
+- [Prakhar Tripathi]
